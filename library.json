@@ -29,6 +29,7 @@
         "[Ee]xamples/*/*.ino"
     ],
     "dependencies": {
+        "external-repo": "https://github.com/espressif/arduino-esp32/tree/master/libraries/Update",
         "contrem/arduino-timer": "^2.3.1",
         "olikraus/U8g2": "^2.33.2",
         "bblanchon/ArduinoJson": "^6.19.4",
