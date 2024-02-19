@@ -29,7 +29,6 @@
         "[Ee]xamples/*/*.ino"
     ],
     "dependencies": {
-        "bg-dev/ESPAdmin": "^1.2.2",
         "jandrassy/ArduinoOTA": "^1.1.0",
         "contrem/arduino-timer": "^2.3.1",
         "olikraus/U8g2": "^2.33.2",
